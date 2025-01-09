@@ -28,7 +28,8 @@ const showModal = (isHidden) => {
 
 const shareOnLinkedIn = (quote, author) => {
   const baseUrl = "https://www.linkedin.com/sharing/share-offsite/?url=";
-  const siteUrl = "https://ibrahim-003.github.io/Random-Quote/";
+  const siteUrl =
+    "https://random-quote-izvzbb8t7-ibrahim-003s-projects.vercel.app/";
   const title = `${quote} - ${author}`;
   const summary = "Encuentra mas citas inspiradoras en nuestro sitio web."
   const shareUrl = `${baseUrl}${encodeURIComponent(siteUrl)}&title=${encodeURIComponent(title)}&summary=${encodeURIComponent(summary)}`;
