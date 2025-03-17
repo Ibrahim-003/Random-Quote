@@ -14,7 +14,7 @@
 
 ## Vista Previa
 
-![Captura del Proyecto](./images/desktop-preview.png)
+![Captura del Proyecto](./src/assets/images/desktop-preview.webp)
 
 Puedes ver la versión demo en vivo aquí: [Random Quote](https://random-quote-coral-nine.vercel.app/)
 
